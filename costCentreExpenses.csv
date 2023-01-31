@@ -1,0 +1,104 @@
+,code,Cost Centre csv file exported from Civic Homes          23/01/2023
+0,ACC,Accounting Fees
+1,ADV,Advertising
+2,BADDEBT,Bad Debt Expense
+3,BCH,Bank Charges
+4,BOOKKEEPIN,Bookkeeping
+5,CLEAN,Cleaning
+6,CLEAR,Clearing Account (B/S)
+7,COMM,Commissions (Sales)
+8,COMP01,Computer Hardware Purchase
+9,COMP02,Computer Hardware Lease
+10,COMP03,Computer Software Purchase
+11,COMP05,Computer Expenses General
+12,CONSU,External Consultants (paid)
+13,DEPFF,Depreciation Furniture/Fittings
+14,DEPMV,Depreciation Motor Vehicles
+15,DEPOE,Depreciation Office Equipment
+16,DEPOS,Deposits Held
+17,DEPPE,Depreciation Plant + Equipment
+18,DFI,Deferred Instalment
+19,DON,Donations
+20,DRSUND,Sundry Debtors
+21,ENTER,Entertainment
+22,FBT,FBT
+23,FIL,Filing Fees
+24,FINES,Fines + Penalties
+25,HIRE,Hire Charges
+26,INS01,Insurance - General Business
+27,INS02,Insurance - Profession Indemnity
+28,INS03,Insurance - Const. All Risk
+29,INS04,Insurance - Buildings
+30,INS05,Insurance - Contents
+31,INS06,Insurance - Tools + Equipment
+32,INS07,Insurance - Key Personel
+33,INTERNET,Internet
+34,INTOD,Interest Overdraft
+35,INTREC,Interest Received
+36,ITX,Income Tax
+37,JNL,Journals
+38,LABCO,Labour Chargeout
+39,LAND,Land Purchases
+40,LAND02,Land Sales
+41,LEAS01,Office Equipment Lease
+42,LEAS02,Rental Office
+43,LEAS03,Rental Shed
+44,LEG,Legal Expenses
+45,MAIN01,Office Equipment Maintenance
+46,MEMBER,Professional Membership Fees
+47,MVCOST,Motor Vehicles at Cost
+48,MVFUEL1,ABC123 Fuel + Oil
+49,MVFUEL2,ABC124 Fuel + Oil
+50,MVFUEL3,ABC125 Fuel + Oil
+51,MVINSUR1,ABC124 Insurance
+52,MVINSUR2,ABC123 Insurance
+53,MVLEAS,Motor Vehicle Lease Payable
+54,MVREG1,ABC123 Registration
+55,MVREG2,ABC124 Registration
+56,MVREG3,ABC125 Registration
+57,MVREP1,ABC123 Repairs + Maintenance
+58,MVREP2,ABC124 Repairs + Maintenance
+59,MVREP3,ABC125 Repairs + Maintenance
+60,MVTOLLS,Tolls
+61,OFFICEEXP,Office Expenses
+62,OPEN,Opening Balances
+63,PLANT,Plant + Equipment at Cost
+64,POST,Postage + Couriers
+65,PRINT,Printing and Stationery
+66,PROF,Professional Membership Fees
+67,PYG,PYG Instalments
+68,RATES,Rates and Taxes
+69,RENT,Office Rental
+70,RENTSHED,Shed Rental
+71,REPAIR,Repairs + Maintenance
+72,SALADM,Salaries Administration
+73,SALDIR,Directors Salaries
+74,SALSAL,Salaries Sales
+75,SALSUP,Salaries Supervision
+76,SALTEMP,Wages Tempory Staff
+77,SECU,Security
+78,SOC,Social Club
+79,STAMEN,Staff Amenities
+80,STOCK,Stock - Materials
+81,STRAIN,Staff Training
+82,SUBS,Subscriptions
+83,SUNDINC,Sundry Income
+84,SUNDRY,Sundry Expenses
+85,SUP,Superanuation Staff
+86,SUPER,Superannuation
+87,SUPVOL,Superannuation - Voluntary
+88,TELEPHONE,Telephone
+89,TRAV01,Airfares
+90,TRAV02,Accommodation
+91,TRAV06,Taxi + Ferries
+92,TRAV07,Travel Allowance
+93,TRAV08,Genearl Travel Expenses
+94,VDN,Voluntary Deductions PAYG
+95,TRAV04,Travel Vehicle Hire
+96,WAG,Wages
+97,WAGEREC,Wage Recovery/Chargeout
+98,WAGSL,Wages Site Labour
+99,WC,WorkCover/WorkCare
+100,WHT,PYG WithHolding
+101,WIP,Work in Progress (Asset)
+102,WIPINC,Work in Progress (Income)

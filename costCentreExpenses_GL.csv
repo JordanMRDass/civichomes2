@@ -1,0 +1,104 @@
+,code,Cost Centre csv file exported from Civic Homes          23/01/2023,GL_account
+0,ACC,Accounting Fees,4.1
+1,ADV,Advertising,4.2
+2,BADDEBT,Bad Debt Expense,4.25
+3,BCH,Bank Charges,4.3
+4,BOOKKEEPIN,Bookkeeping,4.1
+5,CLEAN,Cleaning,4.31
+6,CLEAR,Clearing Account (B/S),1.9999
+7,COMM,Commissions (Sales),4.38
+8,COMP01,Computer Hardware Purchase,1.5011
+9,COMP02,Computer Hardware Lease,4.353
+10,COMP03,Computer Software Purchase,4.351
+11,COMP05,Computer Expenses General,4.353
+12,CONSU,External Consultants (paid),4.37
+13,DEPFF,Depreciation Furniture/Fittings,4.401
+14,DEPMV,Depreciation Motor Vehicles,4.403
+15,DEPOE,Depreciation Office Equipment,4.402
+16,DEPOS,Deposits Held,2.15
+17,DEPPE,Depreciation Plant + Equipment,4.404
+18,DFI,Deferred Instalment,2.27
+19,DON,Donations,4.42
+20,DRSUND,Sundry Debtors,1.13
+21,ENTER,Entertainment,4.44
+22,FBT,FBT,8.101
+23,FIL,Filing Fees,4.45
+24,FINES,Fines + Penalties,8.1
+25,HIRE,Hire Charges,
+26,INS01,Insurance - General Business,4.503
+27,INS02,Insurance - Profession Indemnity,
+28,INS03,Insurance - Const. All Risk,4.504
+29,INS04,Insurance - Buildings,4.501
+30,INS05,Insurance - Contents,4.502
+31,INS06,Insurance - Tools + Equipment,
+32,INS07,Insurance - Key Personel,
+33,INTERNET,Internet,4.8214
+34,INTOD,Interest Overdraft,
+35,INTREC,Interest Received,7.2
+36,ITX,Income Tax,8.102
+37,JNL,Journals,
+38,LABCO,Labour Chargeout,
+39,LAND,Land Purchases,1.5001
+40,LAND02,Land Sales,
+41,LEAS01,Office Equipment Lease,
+42,LEAS02,Rental Office,4.655
+43,LEAS03,Rental Shed,
+44,LEG,Legal Expenses,4.56
+45,MAIN01,Office Equipment Maintenance,4.65
+46,MEMBER,Professional Membership Fees,4.812
+47,MVCOST,Motor Vehicles at Cost,1.5032
+48,MVFUEL1,ABC123 Fuel + Oil,
+49,MVFUEL2,ABC124 Fuel + Oil,
+50,MVFUEL3,ABC125 Fuel + Oil,
+51,MVINSUR1,ABC124 Insurance,
+52,MVINSUR2,ABC123 Insurance,
+53,MVLEAS,Motor Vehicle Lease Payable,2.32
+54,MVREG1,ABC123 Registration,
+55,MVREG2,ABC124 Registration,
+56,MVREG3,ABC125 Registration,
+57,MVREP1,ABC123 Repairs + Maintenance,
+58,MVREP2,ABC124 Repairs + Maintenance,
+59,MVREP3,ABC125 Repairs + Maintenance,
+60,MVTOLLS,Tolls,4.6013
+61,OFFICEEXP,Office Expenses,
+62,OPEN,Opening Balances,
+63,PLANT,Plant + Equipment at Cost,1.504
+64,POST,Postage + Couriers,4.7
+65,PRINT,Printing and Stationery,4.75
+66,PROF,Professional Membership Fees,
+67,PYG,PYG Instalments,2.27
+68,RATES,Rates and Taxes,4.657
+69,RENT,Office Rental,4.655
+70,RENTSHED,Shed Rental,
+71,REPAIR,Repairs + Maintenance,4.656
+72,SALADM,Salaries Administration,
+73,SALDIR,Directors Salaries,4.805
+74,SALSAL,Salaries Sales,
+75,SALSUP,Salaries Supervision,
+76,SALTEMP,Wages Tempory Staff,
+77,SECU,Security,
+78,SOC,Social Club,
+79,STAMEN,Staff Amenities,
+80,STOCK,Stock - Materials,
+81,STRAIN,Staff Training,
+82,SUBS,Subscriptions,
+83,SUNDINC,Sundry Income,7.5
+84,SUNDRY,Sundry Expenses,4.82
+85,SUP,Superanuation Staff,
+86,SUPER,Superannuation,4.811
+87,SUPVOL,Superannuation - Voluntary,2.36
+88,TELEPHONE,Telephone,4.8214
+89,TRAV01,Airfares,4.91
+90,TRAV02,Accommodation,4.92
+91,TRAV06,Taxi + Ferries,4.95
+92,TRAV07,Travel Allowance,4.96
+93,TRAV08,Genearl Travel Expenses,4.97
+94,VDN,Voluntary Deductions PAYG,2.38
+95,TRAV04,Travel Vehicle Hire,
+96,WAG,Wages,4.8
+97,WAGEREC,Wage Recovery/Chargeout,
+98,WAGSL,Wages Site Labour,
+99,WC,WorkCover/WorkCare,
+100,WHT,PYG WithHolding,2.26
+101,WIP,Work in Progress (Asset),1.25
+102,WIPINC,Work in Progress (Income),1.25
